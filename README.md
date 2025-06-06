@@ -9,7 +9,7 @@
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/marcelohek/3MLET_Fase_1_Tech_Challenge_rm358953.git
+git clone https://github.com/marcelohek/3MLET_Fase_4_Tech_Challenge_rm358953.git
 ```
 
 ### 2. Crie um Ambiente Virtual
