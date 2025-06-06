@@ -31,7 +31,9 @@ pip install -r requirements.txt
 uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 
-O aplicativo estará disponível em `http://127.0.0.1:8000/predict` sendo necessário passar no body da requisição POST um JSON com 30 valores de fechamento. ex `{
+O aplicativo estará disponível em `http://127.0.0.1:8000/predict` 
+sendo necessário passar no body da requisição POST um JSON com 30 valores de fechamento. ex 
+`{
     "sequence": [
         150.12,
         151.34,
